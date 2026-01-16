@@ -1,2 +1,2 @@
-# MyList
-MyList von Java Untericht
+# Java Repo
+Java Untericht
